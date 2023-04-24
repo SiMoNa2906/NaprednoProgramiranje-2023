@@ -1,0 +1,12 @@
+1.Vo makedonskiot jazik brojot na samoglaski e:    a.5  b.8  c.10 
+2.Pevec i pejach se:   a.paronimi b.sinonimi  c.homonimi 
+3.Koj zbor e glagolska pridavka:   a.viknat  b.vikajkji  c.vikanje 
+4.Dvojna rodova forma ima imenkata:    a.zhito  b.voda  c.pesok 
+5.Koj zbor e pravilno napishan?     a.aviokompanija b.nemozham c.super-market d.nebev
+6.Kakov vid na drama e Divo meso?    a.Bitova drama b.Sovremena drama c.Postmoderna drama d.Bitovo-socijalna drama
+7.Na koja stihozbirka e avtor Gane Todorovski:   a.Bozhilak b.Dozhdovi c.Vezilka d.Makedonska Krvava Svadba
+8.Eshil, Sofokle i Evripid se poznati kako avtori na antichkata:      a.komedija b.tragedija c.epika d.tragi-komedija
+9.Glavni likovi vo "Chekajkji go Godo" se: (dva tochni odgovori)    a.Estragon b.Chichko Gorio c.Vladimir d.Marko e.Jordan
+10.Kakvi mozhat da bidat glagolite spored vidot? (dva tochni odgovori)    a.svrsheni b.segashni c.nesvrsheni d.opredeleni e.minati
+11.Koi se glavnite rechenichni chelnovi? (dva tochni odgovori)        a.podmet b.atribut c.opozicija d.prirok e.predmet
+12.Koi od slednive pesni se na Blazhe Koneski?(dva tochni odgovori)     a.Razdelba b.Teshkoto c.T'ga za jug d.Ochi e.Vezilka
